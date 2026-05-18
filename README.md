@@ -6,4 +6,4 @@
 - 🌐 **[hbjunge.com](https://hbjunge.com)** : A place where extended pieces of work are located.
 
 ---
-*BSc Business & Management (Exeter '25). Self-directed builder — infrastructure, automation, AI-augmented workflows.*
+*BSc Business & Management (Exeter '25). Self-directed builder of infrastructure, automation, and AI-augmented workflows.*
