@@ -2,7 +2,7 @@
 
 > Most of what I build starts as a problem in my own life and ends as infrastructure. *Automate it, then write about why it broke.*
 
-- 🛠️ **focus-guardian** : 
+- 🛠️ **focus-guardian** : A personal focus & control system that blocks distracting hosts and enforces deep-work windows on macOS.
 - 🌐 **[hbjunge.com](https://hbjunge.com)** : A place where extended pieces of work are located.
 
 ---
